@@ -1,0 +1,32 @@
+{
+  "name": "node-windows-customized",
+  "version": "0.1.14",
+  "description": "Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS.",
+  "keywords": [
+    "ngn",
+    "windows",
+    "service",
+    "daemon",
+    "logging",
+    "event",
+    "event logging",
+    "elevate",
+    "sudo",
+    "task"
+  ],
+  "author": "Corey Butler <corey@coreybutler.com>",
+  "devDependencies": {},
+  "main": "lib/node-windows.js",
+  "os": [
+    "win32"
+  ],
+  "preferGlobal": true,
+  "dependencies": {
+    "optimist": "~0.6.0",
+    "xml": "0.0.12"
+  },
+  "readmeFilename": "README.md",
+  "scripts": {},
+  "license": "MIT",
+  "engine": "node >= 0.10.10"
+}

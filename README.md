@@ -1,0 +1,7 @@
+# 定制
+
+node-windows-customized去除了服务名称的限制，其它与[node-windows](http://github.com/coreybutler/node-windows) 0.1.14版本保持一致，具体使用见[node-windows](http://github.com/coreybutler/node-windows)
+
+# Licenses
+
+(The MIT License)
