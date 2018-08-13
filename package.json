@@ -1,6 +1,6 @@
 {
   "name": "node-windows-customized",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS.",
   "keywords": [
     "ngn",
@@ -25,8 +25,20 @@
     "optimist": "~0.6.0",
     "xml": "0.0.12"
   },
-  "readmeFilename": "README.md",
   "scripts": {},
   "license": "MIT",
-  "engine": "node >= 0.10.10"
+  "engine": "node >= 0.10.10",
+  "directories": {
+    "doc": "docs",
+    "example": "example",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weicheng6/node-windows-customized.git"
+  },
+  "bugs": {
+    "url": "https://github.com/weicheng6/node-windows-customized/issues"
+  },
+  "homepage": "https://github.com/weicheng6/node-windows-customized#readme"
 }
