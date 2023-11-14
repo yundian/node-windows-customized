@@ -1,6 +1,6 @@
 {
-  "name": "node-windows-customized",
-  "version": "0.0.1",
+  "name": "node-windows-hik",
+  "version": "1.0.0",
   "description": "Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS.",
   "keywords": [
     "ngn",
@@ -29,13 +29,5 @@
     "doc": "docs",
     "example": "example",
     "lib": "lib"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/weicheng6/node-windows-customized.git"
-  },
-  "bugs": {
-    "url": "https://github.com/weicheng6/node-windows-customized/issues"
-  },
-  "homepage": "https://github.com/weicheng6/node-windows-customized#readme"
+  }
 }
